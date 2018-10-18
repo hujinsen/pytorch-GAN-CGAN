@@ -1,5 +1,5 @@
 # pytorch-GAN-CGAN
-### 模型介绍（GAN, CGAN）
+### 模型介绍
 
 #### GAN
 
